@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/giovanilima775/survey-nodejs/issues"
   },
-  "homepage": "https://github.com/giovanilima775/survey-nodejs#readme"
+  "homepage": "https://github.com/giovanilima775/survey-nodejs#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.2.8"
+  }
 }
